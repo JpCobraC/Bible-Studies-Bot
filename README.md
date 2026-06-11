@@ -2,7 +2,7 @@
 
 Este projeto realiza a ingestão, o processamento lógico e a indexação semântica de textos bíblicos e documentos confessionais históricos em um banco de dados vetorial local utilizando a técnica de **RAG (Retrieval-Augmented Generation)**.
 
-Toda a arquitetura é projetada para rodar **100% offline e localmente**, utilizando a biblioteca **LangChain**, o banco vetorial **ChromaDB** e embeddings locais (**`all-MiniLM-L6-v2`** da Hugging Face), eliminando a dependência de APIs pagas (como OpenAI) e garantindo privacidade e velocidade no processamento.
+Toda a arquitetura de indexação e recuperação é projetada para rodar **100% offline e localmente**, utilizando a biblioteca **LangChain**, o banco vetorial **ChromaDB** e embeddings locais (**`all-MiniLM-L6-v2`** da Hugging Face), garantindo privacidade e velocidade no processamento. Para a geração pastoral dos devocionais, o projeto integra-se à API do **Google Gemini** de forma segura.
 
 ---
 
@@ -44,7 +44,9 @@ Para evitar que blocos lógicos estruturados (como perguntas e respostas ou refu
 ├── Cânones_de_dort.json     # Cânones de Dort (Artigos e Refutações)
 ├── Institutas_JoãoCalvino.json # Institutas da Religião Cristã (Calvino)
 ├── cria_RAG.py              # Script principal de extração, chunking e indexação
+├── gera_devocional.py       # Script de geração de devocionais usando RAG e Google Gemini
 ├── organizer.py             # Script utilitário para formatar a indentação de arquivos JSON
+├── .env                     # Arquivo de configuração local (chave da API do Gemini)
 ├── requirements.txt         # Arquivo de dependências Python
 └── README.md                # Documentação do projeto
 ```
@@ -83,6 +85,14 @@ Com o ambiente virtual ativo, instale as bibliotecas necessárias:
 pip install -r requirements.txt
 ```
 
+### 4. Configurar Chave de API (Google Gemini)
+
+Crie um arquivo chamado `.env` na raiz do projeto (ou edite o arquivo criado automaticamente) e insira sua chave da API do Gemini:
+
+```env
+GOOGLE_API_KEY=sua_chave_gemini_aqui
+```
+
 ---
 
 ## 🎮 Como Executar e Alimentar o RAG
@@ -99,6 +109,22 @@ python cria_RAG.py
 3. Se houver uma pasta `./chroma_db` antiga, ela é removida para evitar dados duplicados.
 4. Gera os embeddings de cada *chunk* através do modelo `sentence-transformers/all-MiniLM-L6-v2` (baixado localmente via cache se for a primeira execução).
 5. Armazena os textos, metadados e vetores no diretório `./chroma_db`.
+
+---
+
+## ✍️ Como Gerar Devocionais Teológicos
+
+Após alimentar o banco vetorial executando o `cria_RAG.py`, você pode utilizar o gerador de devocionais para produzir meditações profundas e teologicamente embasadas nas escrituras e confissões:
+
+```bash
+python gera_devocional.py
+```
+
+O script irá:
+1. Carregar o banco vetorial persistido localmente (`./chroma_db`).
+2. Solicitar um tema ou versículo chave.
+3. Buscar referências bíblicas e confessionais correspondentes no ChromaDB (RAG).
+4. Gerar um devocional estruturado e fundamentado utilizando o modelo `gemini-1.5-flash`.
 
 ---
 
