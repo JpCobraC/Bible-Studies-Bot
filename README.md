@@ -124,7 +124,7 @@ O script irá:
 1. Carregar o banco vetorial persistido localmente (`./chroma_db`).
 2. Solicitar um tema ou versículo chave.
 3. Buscar referências bíblicas e confessionais correspondentes no ChromaDB (RAG).
-4. Gerar um devocional estruturado e fundamentado utilizando o modelo `gemini-1.5-flash`.
+4. Gerar um devocional estruturado, formatado especificamente para envio via WhatsApp (com títulos em *negrito* nativo e parágrafos curtos) e limitado a no máximo 2500 caracteres, exibindo a contagem final no console.
 
 ---
 
