@@ -1,0 +1,462 @@
+{
+    "documento": {
+        "titulo": "As Institutas da Região Cristã",
+        "autor": "João Calvino",
+        "creditos_compilacao": {
+            "site": "Teologia Calvinista",
+            "responsavel": "Nilson Mascolli Filho",
+            "contato": "nilsonmascollifilho@yahoo.com.br",
+            "data_criacao": "25 de Julho de 2007",
+            "data_atualizacao": "14 de Maio de 2008"
+        },
+        "dados_edicao_referenciada": {
+            "editora": "Cultura Cristã",
+            "tradutor": "Dr. Odayr Olivetti",
+            "notas": "Dr. Hermisten Maia Pereira da Costa",
+            "formato": "16x23 cm",
+            "paginas": 1072,
+            "papel": "Chamois",
+            "estrutura": "Coleção em 4 volumes, capa dura colorida"
+        }
+    },
+    "biografia_joao_calvino": {
+        "nome_original": "Jean Cauvin",
+        "data_nascimento": "10 de Julho de 1509",
+        "local_nascimento": "Noyon, França",
+        "data_falecimento": "27 de Maio de 1564",
+        "idade_falecimento": "55 anos",
+        "tempo_vida": "54 anos, 10 meses e 17 dias",
+        "aparencia_fisica": "Estatura mediana, aparência sombria e pálida, olhos brilhantes",
+        "cronologia": [
+            {
+                "ano": 1523,
+                "evento": "Aos 14 anos, viaja a Paris para estudos preparatórios e ingressa no Colégio Montaigu."
+            },
+            {
+                "ano": 1528,
+                "evento": "Inicia estudos em Direito e, posteriormente, em Literatura."
+            },
+            {
+                "ano": 1532,
+                "evento": "Publica seu primeiro livro, um comentário à obra 'De Clementia' de Sêneca."
+            },
+            {
+                "ano": 1533,
+                "evento": "Escreve discurso para a reabertura da Universidade de Paris (lido pelo reitor Cop) atacando a teologia escolástica, gerando perseguição."
+            },
+            {
+                "periodo": "1533-1534",
+                "evento": "Conversão ao protestantismo, influenciado por seu primo Robert Olivétan."
+            },
+            {
+                "ano": 1536,
+                "evento": "Passa a noite em Genebra devido a uma estrada obstruída. Guilherme Farel o convence a permanecer para implantar a Reforma Protestante. Publica a primeira edição das Institutas em Basiléia."
+            },
+            {
+                "ano": 1538,
+                "evento": "Expulso de Genebra, viaja para Estrasburgo, onde atua como pastor e professor. Casa-se com a viúva anabatista Idelette de Bure."
+            },
+            {
+                "ano": 1541,
+                "evento": "Convidado a retornar a Genebra. Publica a tradução francesa das Institutas."
+            },
+            {
+                "ano": 1559,
+                "evento": "Publica a edição definitiva e expandida em latim das Institutas."
+            }
+        ]
+    },
+    "indice_da_apostila": [
+        {
+            "volume": "I",
+            "capitulo": "I",
+            "titulo": "O Conhecimento de Deus",
+            "pagina_original": 5
+        },
+        {
+            "volume": "I",
+            "capitulo": "II",
+            "titulo": "O conhecimento do homem e o livre-arbítrio",
+            "pagina_original": 7
+        },
+        {
+            "volume": "I",
+            "capitulo": "III",
+            "titulo": "A Lei",
+            "pagina_original": 9
+        },
+        {
+            "volume": "II",
+            "capitulo": "IV",
+            "titulo": "Fé: Credo Apostólico",
+            "pagina_original": 11
+        },
+        {
+            "volume": "II",
+            "capitulo": "V",
+            "titulo": "Arrependimento",
+            "pagina_original": 14
+        },
+        {
+            "volume": "II",
+            "capitulo": "VI",
+            "titulo": "Justificação pela Fé",
+            "pagina_original": 17
+        },
+        {
+            "volume": "III",
+            "capitulo": "VII",
+            "titulo": "Semelhança e diferença do AT e NT",
+            "pagina_original": 20
+        },
+        {
+            "volume": "III",
+            "capitulo": "VIII",
+            "titulo": "A Predestinação e Providência",
+            "pagina_original": 22
+        },
+        {
+            "volume": "III",
+            "capitulo": "IX",
+            "titulo": "A Oração",
+            "pagina_original": 29
+        },
+        {
+            "volume": "III",
+            "capitulo": "X",
+            "titulo": "Os Sacramentos",
+            "pagina_original": 32
+        },
+        {
+            "volume": "III",
+            "capitulo": "XI",
+            "titulo": "O Batismo",
+            "pagina_original": 35
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XII",
+            "titulo": "A Ceia do Senhor",
+            "pagina_original": 38
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XIII",
+            "titulo": "Os Cincos outros Sacramentos",
+            "pagina_original": 40
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XIV",
+            "titulo": "A Liberdade Cristã",
+            "pagina_original": 41
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XV",
+            "titulo": "Poder Eclesiástico",
+            "pagina_original": 43
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XVI",
+            "titulo": "Governo Civil",
+            "pagina_original": 45
+        },
+        {
+            "volume": "IV",
+            "capitulo": "XVII",
+            "titulo": "Vida Crista (Capítulo Completo)",
+            "pagina_original": 47
+        }
+    ],
+    "conteudo_capitulos_amostra": {
+        "capitulo_I_o_conhecimento_de_deus": {
+            "tese_principal": "A verdadeira sabedoria consiste no conhecimento de Deus e no conhecimento de nós mesmos.",
+            "pontos_chave": [
+                "O conhecimento de Deus revela-O como fonte de toda verdade, bondade, justiça e poder.",
+                "O conhecimento do homem revela sua ignorância, miséria e maldade, conduzindo-o à humildade.",
+                "O homem não consegue conhecer a si mesmo com clareza sem antes contemplar a face de Deus e Sua perfeita justiça, pois a hipocrisia natural faz as imperfeições humanas parecerem virtudes quando não comparadas ao padrão divino."
+            ]
+        },
+        "capitulo_II_o_conhecimento_do_homem_e_o_livre_arbitrio": {
+            "tese_principal": "O conselho antigo de 'conhece-te a ti mesmo' deve afastar o homem da presunção e despojá-lo de vã glória.",
+            "pontos_chave": [
+                "Filósofos mundanos exaltam a dignidade humana, estimulando o orgulho.",
+                "A verdade divina impõe um conhecimento que revela a pobreza, torpeza e loucura do homem para que ele busque a modéstia.",
+                "A auto-suficiência humana é uma ilusão lisonjeira que gera ruína e cegueira espiritual."
+            ]
+        },
+        "capitulo_III_a_lei": {
+            "tese_principal": "A Lei de Deus testifica tanto a majestade divina quanto a corrupção e debilidade humana.",
+            "pontos_chave": [
+                "A lei interior ou natural está impressa no coração e na consciência de todo ser humano, discernindo o bem do mal.",
+                "Devido às trevas da ignorância e do orgulho, a lei natural é insuficiente para guiar o homem retamente.",
+                "Deus outorgou a Lei escrita (Decálogo) para remover a negligência e dar testemunho claro dos deveres morais.",
+                "A incapacidade do homem em cumprir a Lei decorre do seu próprio defeito e apego ao pecado, não podendo ser usada como desculpa legítima."
+            ]
+        },
+        "capitulo_IV_a_fe_ou_explicacao_do_credo_dos_apostolos": {
+            "tese_principal": "A fé não é uma mera credulidade superficial, mas um conhecimento firme e selado no coração.",
+            "pontos_chave": [
+                "Crítica aos sofistas da Sorbonne por definirem a fé de forma vaga (fé formada e fé informe) e atribuírem o termo a mentes desprovidas do temor de Deus.",
+                "Existe uma falsa fé (como a de Simão Mago) que é uma sombra ou aceitação intelectual temporária, incapaz de penetrar o coração e criar raízes vivas.",
+                "Definição de Fé Cristã: 'Um conhecimento firme e certo da vontade de Deus concernente a nós, fundamento sobre a verdade da promessa gratuita feita em Jesus Cristo, revelada ao nosso entendimento e selada em nosso coração pelo Espírito Santo.'",
+                "A Palavra de Deus é o objeto, meta e fundamento insubstituível da fé."
+            ]
+        },
+        "capitulo_V_o_arrependimento": {
+            "tese_principal": "O arrependimento é um fruto gerado pela fé, e não um elemento que a precede temporalmente.",
+            "pontos_chave": [
+                "O homem não pode se aplicar ao arrependimento se não reconhecer primeiro que pertence a Deus por Sua graça.",
+                "Rejeição à doutrina anabatista que exige dias de arrependimento prévio antes do batismo, visto que o arrependimento deve durar toda a vida cristã.",
+                "Componentes tradicionais: Mortificação (contrição, dor e terror pelo pecado diante do juízo de Deus) e Vivificação (consolação gerada pela fé e misericórdia em Cristo).",
+                "Duas espécies: Arrependimento Legal (desespero diante da punição e ira divina, ex: Caim, Saul, Judas) e Arrependimento Evangélico (aflito pelo pecado, mas amparado na confiança na misericórdia, ex: Ezequias, Ninivitas, Davi, Pedro).",
+                "Definição: 'Uma verdadeira conversão da nossa vida para servir a Deus e para seguir o caminho por ele indicado. Procede de um legítimo temor de Deus... e consiste na mortificação da nossa carne e do nosso velho homem, e na vivificação do Espírito.'"
+            ]
+        },
+        "capitulo_VI_a_justificacao_pela_fe_e_os_meritos_das_obras": {
+            "tese_principal": "A justificação diante de Deus ocorre puramente pela apropriação da justiça de Cristo através da fé, excluindo os méritos das obras.",
+            "pontos_chave": [
+                "Justificado diante de Deus é aquele julgado justo perante o tribunal divino, absolvido do pecado.",
+                "A justiça da fé e a justiça das obras são mutuamente exclusivas; estabelecer uma anula a outra.",
+                "A oposição aos teólogos da Sorbonne que defendem uma 'justiça mista' e interpretam 'graça' apenas como auxílio do Espírito Santo para praticar boas obras, aproximando-se do pelagianismo.",
+                "Fora de Cristo não há justiça, salvação ou mérito algum."
+            ]
+        },
+        "capitulo_VII_semelhanças_e_diferenças_entre_o_antigo_e_o_novo_testamento": {
+            "tese_principal": "O Antigo e o Novo Testamento são idênticos em substância e verdade, diferindo unicamente na ordem da dispensação.",
+            "pontos_chave": [
+                "Refutação aos anabatistas que afirmavam que o povo de Israel não tinha esperança de imortalidade celestial.",
+                "Três artigos de unidade: 1) O Senhor propôs aos judeus a esperança da imortalidade celestial; 2) A aliança com os pais antigos fundou-se puramente na misericórdia; 3) Eles reconheciam Cristo como o Mediador."
+            ]
+        },
+        "capitulo_VIII_a_predestinacao_e_a_providencia_de_deus": {
+            "tese_principal": "A pregação desigual da aliança da vida reflete o oculto, porém justo, conselho de eleição de Deus.",
+            "pontos_chave": [
+                "A predestinação é o conselho eterno de Deus pelo qual determinou o destino de cada ser humano: uns para a vida eterna e outros para a condenação eterna.",
+                "Advertência contra a curiosidade humana excessiva: a Escritura deve ser o limite do que se busca conhecer.",
+                "Rejeição à ideia de eleição baseada em méritos previstos (passados ou futuros). Deus elege soberanamente segundo o beneplácito de Sua vontade, para o louvor de Sua graça.",
+                "Exemplo de Jacó e Esaú: a distinção e preferência divina ocorreram antes do nascimento e sem dependência de suas obras morais."
+            ]
+        },
+        "capitulo_IX_a_oracao_com_a_explicacao_da_oracao_do_senhor": {
+            "tese_principal": "Pelo benefício da oração penetramos e desfrutamos as riquezas e tesouros ensinados à nossa fé no Evangelho.",
+            "pontos_chave": [
+                "A oração é a comunicação que nos introduz no templo celestial, permitindo-nos experimentar a veracidade das promessas divinas.",
+                "Refutação à objeção de que orar é desnecessário porque Deus já conhece nossas necessidades: a oração foi instituída para benefício do homem, não de Deus.",
+                "Objetivos da oração: inflamar o desejo de buscar e honrar a Deus, exercitar a abnegação abrindo o coração perante Ele e habilitar o crente a receber as bênçãos com gratidão."
+            ]
+        },
+        "capitulo_X_os_sacramentos": {
+            "tese_principal": "Os sacramentos são sinais exteriores instituídos por Deus para sustentar, confirmar e fortalecer a nossa fé.",
+            "pontos_chave": [
+                "Definição: Testemunho da graça de Deus declarado mediante sinal exterior, servindo como um selo ou apêndice anexado à Palavra de Deus.",
+                "Os sacramentos não possuem poder inerente em seus elementos físicos, mas cumprem sua função porque foram destinados por Deus para essa significação espiritual.",
+                "Metáforas explicativas: 'palavra visível' (Agostinho), 'colunas da fé' (dando suporte ao edifício edificado sobre a Palavra) e 'espelhos da graça'.",
+                "Somente Deus tem a prerrogativa e o poder de instituir um sacramento."
+            ]
+        },
+        "capitulo_XI_o_batismo": {
+            "tese_principal": "O batismo serve à fé no instituidor e à confissão pública dessa fé perante os homens.",
+            "pontos_chave": [
+                "Três benefícios à fé: 1) Sinal de purificação e perdão de todos os pecados (passados e futuros); 2) Demonstração da nossa mortificação e nova vida em Cristo (sepultamento e ressurreição espiritual); 3) Testemunho da nossa união e comunhão íntima com Cristo.",
+                "A água em si não possui virtude purificadora ou salvífica; a eficácia reside no sangue de Cristo e na ação regeneradora do Espírito.",
+                "O batismo é válido para toda a extensão da vida do crente e não deve ser reiterado.",
+                "Harmonia trinitária: a purificação provém do Pai, a matéria está no Filho e o efeito realiza-se no Espírito Santo."
+            ]
+        },
+        "capitulo_XII_sobre_a_ceia_do_senhor": {
+            "tese_principal": "A Ceia do Senhor (Eucaristia) assegura ao crente a comunhão real com o corpo e o sangue de Jesus Cristo.",
+            "pontos_chave": [
+                "O pão e o vinho representam o corpo entregue e o sangue derramado, servindo de alimento e fortalecimento espiritual para a alma.",
+                "A Ceia opera uma 'maravilhosa permuta': Cristo assume nossa pobreza, fraqueza, mortalidade e pecados, e nos transfere Suas riquezas, poder, imortalidade e justiça.",
+                "O sacramento serve de exercício da fé, baseado nas promessas explícitas de Cristo."
+            ]
+        },
+        "capitulo_XIII_sobre_as_cinco_outras_cerimonias_falsamente_chamadas_sacramentos": {
+            "tese_principal": "A Confirmação, a Penitência, a Extrema-unção, as Ordens Eclesiásticas e o Casamento não devem ser classificados como sacramentos.",
+            "pontos_chave": [
+                "Apenas Deus possui a autoridade para instituir sacramentos legítimos, pois somente Ele pode vincular uma promessa espiritual a um elemento carnal.",
+                "As cinco cerimônias citadas carecem de fundamentação ou ordem bíblica expressa que as classifique como sinais de promessa salvífica."
+            ]
+        },
+        "capitulo_XIV_sobre_a_liberdade_crista": {
+            "tese_principal": "A liberdade cristã é uma doutrina essencial que ampara a consciência e compõe-se de três partes estruturais.",
+            "pontos_chave": [
+                "Parte 1: A consciência eleva-se acima da Lei na busca pela justificação, baseando-se unicamente na misericórdia de Cristo e esquecendo o mérito das obras.",
+                "Isso não torna a Lei supérflua; ela permanece ativa para ensinar, exortar e estimular os crentes à prática da santidade em sua vida diária."
+            ]
+        },
+        "capitulo_XV_sobre_o_poder_eclesiastico": {
+            "tese_principal": "O verdadeiro poder eclesiástico é dado puramente para edificação, não para escravizar as consciências com leis humanas.",
+            "pontos_chave": [
+                "Ataque às leis e constituições humanas criadas pelo clero católico que impõem obrigatoriedade sob pena de condenação eterna.",
+                "As consciências devem reconhecer apenas a Cristo como Rei e a lei da liberdade presente no Evangelho.",
+                "Os líderes da igreja não são legisladores soberanos, mas 'ministros de Cristo e despenseiros dos mistérios de Deus'."
+            ]
+        },
+        "capitulo_XVI_sobre_o_governo_civil": {
+            "tese_principal": "O reino espiritual de Cristo e a ordem civil são esferas totalmente distintas, porém não excludentes ou repulsivas entre si.",
+            "pontos_chave": [
+                "Crítica aos 'amantes de utopias' e anabatistas que rejeitam leis, magistrados e governos sob o pretexto de liberdade evangélica.",
+                "O governo civil é tão necessário à humanidade quanto o pão, a água, o sol e o ar.",
+                "Objetivos do governo civil: manter a paz e a tranquilidade comum, proteger a propriedade, evitar fraudes comerciais e impedir que idolatrias, blasfêmias e escândalos contra a religião sejam espalhados publicamente."
+            ]
+        }
+    },
+    "capitulo_XVII_vida_crista_completo": {
+        "introducao_e_metodo": {
+            "objetivo": "Apresentar uma breve regra geral que sirva de parâmetro para orientar as ações do cristão rumo à verdadeira meta.",
+            "metodo_da_escritura": "Diferente dos filósofos que buscam ostentação e lógica formal, o Espírito Santo ensina sem exibição, focando em imprimir o amor pela justiça no coração e fornecer uma regra definida de conduta."
+        },
+        "o_padrao_e_o_modelo": {
+            "fundamento": "Deus é santo, portanto Seu povo deve buscar a santidade como laço de união com Ele.",
+            "exemplo_perfeito": "Cristo é dado pelo Pai como padrão e imagem à qual o crente deve amoldar-se em seu viver diário.",
+            "critica_aos_cristaos_nominais": "O Evangelho não é uma doutrina da língua, mas de vida; deve dominar a alma e habitar nas profundezas do coração."
+        },
+        "a_busca_pela_perfeicao": {
+            "meta": "A perfeição ordenada por Deus deve ser o objetivo constante, exigindo integridade (sinceridade de alma oposta à dobrez).",
+            "progresso_diario": "Embora limitados pela fraqueza carnal nesta vida, o cristão deve progredir gradualmente, empenhando-se para que o dia de hoje supere o de ontem."
+        },
+        "o_principio_da_abnegacao": {
+            "proposicao_central": "Não pertencemos a nós mesmos, pertencemos ao Senhor.",
+            "implicacoes": [
+                "Não permitir que a razão humana e a vontade própria exerçam domínio sobre as ações.",
+                "Não buscar o proveito da carne ou prazeres egoístas.",
+                "Viver e morrer para Deus, permitindo que Sua sabedoria presida todas as decisões."
+            ],
+            "renuncia_da_mente": "Substituição da soberania da razão humana pela condução do Espírito Santo."
+        },
+        "abnegacao_em_relacao_ao_proximo": {
+            "principios_sociais": [
+                "Preferir o próximo em honra, eliminando o orgulho, a arrogância e a insolência natural.",
+                "Reconhecer as faltas e vícios próprios para manter a humildade, enquanto se cobrem (sem adulação) os defeitos alheios.",
+                "Tratar a todos com brandura, companheirismo e mansidão.",
+                "Considerar todos os dons recebidos de Deus como um depósito confiado para ser compartilhado fraternalmente em benefício da comunidade (mordomia cristã).",
+                "Praticar o bem a todos sem exceção, quer mereçam quer não, pois neles deve-se contemplar a imagem de Deus."
+            ],
+            "natureza_da_caridade": "O ato exterior de doação deve ser acompanhado de um sentimento real de misericórdia e semblante amável, sem insultos ou soberba."
+        },
+        "abnegacao_e_paciencia_em_relacao_a_deus": {
+            "submissao": "Aceitar de boa vontade que a vida seja governada pelo beneplácito de Deus, livrando-se da cobiça desenfreada por honras, poder e riquezas.",
+            "a_bênção_divina": "Reconhecer que nenhum esforço humano prospera sem a bênção do Senhor. Ela é o segredo para manter a modéstia na abundância e a paciência na pobreza.",
+            "atitude_diante_das_adversidades": "Doenças, perdas familiares, guerras e misérias devem ser recebidas com serenidade, sabendo que provêm da mão ordenada de Deus para nossa salvação e disciplina paterna, rejeitando a consolação pagã da 'sorte' ou do acaso."
+        },
+        "a_doutrina_da_cruz": {
+            "o_chamado": "Levar a cruz diariamente. Todos os filhos de Deus são destinados a uma vida laboriosa e provada, seguindo o exemplo do próprio Cristo.",
+            "beneficios_da_cruz": [
+                "Demonstrar experimentalmente a fragilidade humana, pondo abaixo a arrogância e a falsa confiança na carne.",
+                "Produzir perseverança, experiência e fortalecer a esperança crente.",
+                "Provar a paciência e ensinar a obediência real a Deus.",
+                "Refrear a intemperança e a petulância natural da carne."
+            ],
+            "consolo_na_perseguicao": "Sofrer por amor à justiça é uma honra espiritual que transforma aflições temporais em riquezas eternas.",
+            "sentimento_humano_vs_estoicismo": "A paciência cristã não anula a dor ou o sentimento (rejeição ao estoicismo que prega a insensibilidade de uma pedra). É legítimo gemer, chorar e temer a adversidade, contanto que a alma se submeta voluntariamente e encontre consolo espiritual na vontade de Deus, a exemplo de Jesus no Getsêmani."
+        },
+        "meditacao_na_vida_futura": {
+            "proposito_das_aflicoes": "O Senhor expõe as misérias do mundo presente para libertar o homem do amor cego e brutal pela terra.",
+            "contraste": "A terra representa o exílio, o corpo uma prisão e a presente existência uma fumaça passageira; o céu é a verdadeira pátria e a presença de Deus a felicidade suprema.",
+            "equilibrio": "O desprezo pelo mundo não deve gerar ódio à vida ou ingratidão, pois a vida terrena é um dom da clemência divina que serve de preparação e combate para receber a coroa celestial.",
+            "atitude_diante_da_morte": "Crítica aos cristãos que temem a morte. O verdadeiro discípulo de Cristo deve esperar o dia da morte e da ressurreição final com gozo, alegria e ardente expectativa de libertação da escravidão do pecado."
+        },
+        "o_uso_dos_bens_terrenos": {
+            "regra_geral": "Os bens temporais devem ser usados de modo a auxiliar a caminhada rumo ao Reino celestial, sem retardá-la.",
+            "critica_aos_extremos": "Rejeição ao rigorismo excessivo (que proíbe o prazer material e torna o homem insensível) e ao libertinarismo (que permite à carne todos os excessos sem freios).",
+            "principios_de_uso": [
+                "Os alimentos e a beleza da criação (flores, aromas, cores, metais preciosos) foram criados por Deus não apenas para a real necessidade, mas também para o prazer, recreação e deleite do homem.",
+                "Regra 1: Usar os dons materiais com gratidão, sem permitir que a gula ou a suntuosidade do vestuário ceguem o discernimento moral ou gerem orgulho.",
+                "Regra 2: Desfrutar deste mundo com o mínimo de apego ('como se nada desfrutassem'), moderando a abundância e sobrelevando a pobreza.",
+                "Regra 3: Reconhecer-se como mordomo ou administrador dos bens de Deus, ciente de que prestará contas a Ele.",
+                "Regra 4: Levar em conta a vocação específica estabelecida por Deus em todas as ações, mantendo-se dentro dos limites de seus postos."
+            ]
+        }
+    },
+    "consideracoes_historicas_editoriais": {
+        "breve_historia_das_institutas": {
+            "conclusão_manuscrito": "Agosto de 1535",
+            "primeira_edicao": "Março de 1536 (Basiléia), escrita em latim, 6 capítulos, 520 páginas, formato de bolso (15x10cm).",
+            "sucessao_de_edicoes": [
+                "1536",
+                "1539",
+                "1543",
+                "1545",
+                "1550",
+                "1553",
+                "1554",
+                "1559 (Definitiva)"
+            ],
+            "edicao_definitiva_1559": "Publicada em Genebra, tipografia de Robert Etienne, 80 capítulos, 980 páginas.",
+            "traducoes_e_impacto": "Calvino traduziu para o francês em 1541. Sob o pseudônimo 'Alcuino' (anagrama de Calvino) circulou parte da edição de 1539 para despistar inquisidores. Foi censurada pela Faculdade de Teologia de Paris (1545) e queimada em praça pública.",
+            "saude_do_autor": "Toda a obra foi produzida em meio a graves problemas de saúde documentados em carta aos médicos de Montpellier (1564): artrite, pedras nos rins, hemorróidas, febre, nefrite, indigestão, cólicas, úlceras e hematúria."
+        },
+        "objetivo_da_obra": {
+            "significado_do_termo": "Do latim 'Institutio', ligada ao vocabulário pedagógico de formação estrutural (como as de Quintiliano e Erasmo). Destina-se a ser um manual de instrução cristã, um resumo ou 'suma' doutrinária do ensino da salvação."
+        },
+        "testemunhos_historicos": [
+            {
+                "autor": "B. B. Warfield",
+                "depoimento": "Conserva sua inquestionável preeminência como o maior e mais influente de todos os tratados dogmáticos."
+            },
+            {
+                "autor": "Albrecht Ritschl",
+                "depoimento": "A chama de obra-prima da teologia protestante."
+            },
+            {
+                "autor": "John Murray",
+                "depoimento": "Não é somente uma obra-prima de teologia cristã; ela é um clássico devocional."
+            },
+            {
+                "autor": "William Cunningham",
+                "depoimento": "A mais importante obra da história da ciência teológica."
+            }
+        ],
+        "contexto_politico_de_publicacao": {
+            "carta_ao_rei": "Dedicada ao Rei Francisco I da França, escrita originalmente em latim com o intuito de defender os evangélicos franceses (reformados), que estavam sendo cruelmente torturados e queimados vivos sob a falsa acusação de serem sediciosos e revolucionários anabatistas.",
+            "edito_de_janeiro_1535": "Francisco I chegou a assinar ordem proibindo temporariamente a impressão de qualquer livro na França sob pena de morte."
+        },
+        "fontes_e_influencias_de_calvino": {
+            "base_soberana": "Estudo aprofundado dos textos originais da Escritura Sagrada em Grego e Hebraico.",
+            "pais_da_igreja": "Amplo conhecimento de João Crisóstomo (grego) e Agostinho (latino).",
+            "autores_profanos": "Aristóteles, Platão, Cícero e Sêneca.",
+            "reformadores": "Leitura das obras de Lutero em latim; influência de Melanchthon, Bucer e Bullinger."
+        }
+    },
+    "comparativo_edicoes_portugues": {
+        "edicao_especial": {
+            "base_textual": "Tradução francesa da edição de 1539 (publicada em 1541)",
+            "tradutor": "Dr. Odayr Olivetti",
+            "paginas": 1072,
+            "caracteristicas": "Linguagem contemporânea e acessível, com notas de estudo elaboradas pelo Dr. Hermisten Maia Pereira da Costa."
+        },
+        "edicao_classica": {
+            "base_textual": "Tradução direta do latim a partir da edição final e definitiva de 1559",
+            "tradutor": "Dr. Waldyr Carvalho Luz",
+            "paginas": 1528,
+            "caracteristicas": "Texto expandido de 80 capítulos, confrontado com edições francesas (1955), inglesas (1936/1961), alemã (1928) e espanhola (1967). Inclui índices remissivos bíblicos e temáticos."
+        }
+    },
+    "recomendacoes_literarias_adicionais": [
+        {
+            "titulo": "A Vida e a Morte de João Calvino",
+            "autor": "Theodoro de Beza",
+            "editora": "Luz Para o Caminho (LPC)",
+            "paginas": 136,
+            "descricao": "Primeira biografia de João Calvino escrita no século XVI, por um colaborador pessoal e testemunha ocular de seus últimos anos de ministério."
+        },
+        {
+            "titulo": "Calvino de A a Z",
+            "autor": "Hermisten Costa",
+            "editora": "Editora Vida",
+            "paginas": 344,
+            "descricao": "Coletânea com cerca de 1.400 citações do próprio Calvino organizadas alfabeticamente em mais de 200 verbetes."
+        },
+        {
+            "titulo": "Calvinismo",
+            "autor": "Abraham Kuyper",
+            "editora": "Cultura Cristã",
+            "paginas": 208,
+            "descricao": "Aborda o calvinismo em seu sentido amplo como um sistema abrangente de vida que interage com a Religião, Política, Ciência e Arte."
+        }
+    ]
+}
